@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm *Anumol Saju, a **NACTET Certified Software Tester* with one year of experience in the industry. I have completed my *MBA in Project Management* and *B.Tech in Electronics and Communication Engineering. My expertise lies in **manual and automation testing, test case writing, defect tracking, and software quality assurance*. I am passionate about improving software quality and delivering reliable products.
+I'm Anumol Saju, a NACTET Certified Software Tester with one year of experience in the industry. I have completed my MBA in Project Management and B.Tech in Electronics and Communication Engineering. My expertise lies in manual and automation testing, test case writing, defect tracking, and software quality assurance. I am passionate about improving software quality and delivering reliable products.
 
 <a href="https://www.linkedin.com/in/anumolsajuqa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
