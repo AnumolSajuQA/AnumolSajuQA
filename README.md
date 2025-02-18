@@ -9,7 +9,7 @@ I'm Anumol Saju, a NACTET Certified Software Tester with one year of experience 
 
 - *Name*: Anumol Saju  
 - *Job*: NACTET Certified Software Tester  
-- *Experience*: 1 year in Software Testing  
+- *Experience*: Worked as a Jr Software Tester at Wahylab Solutions
 - *Education*: MBA in Project Management | B.Tech in Electronics and Communication Engineering  
 - *Certification: NACTET Certified Software Tester – Recognized by the **National Council for Technology and Training (NACTET)*  
 - *Skills Covered*:  
