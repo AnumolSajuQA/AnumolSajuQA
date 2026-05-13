@@ -37,7 +37,6 @@ I'm Anumol Saju, a ISTQB Certified Software Tester with one year of experience i
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&color=000000" alt="Postman" />
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&color=000000" alt="Jira" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&color=000000" alt="SQL" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&color=000000" alt="Agile" />
@@ -48,6 +47,8 @@ I'm Anumol Saju, a ISTQB Certified Software Tester with one year of experience i
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
+  <img src="https://img.shields.io/badge/ISTQB-Certified-red?style=for-the-badge&color=000000" alt="NACTET Certification" />
+ <p>ISTQB Foundation level (CTFL) certified.</p>
 <img src="https://img.shields.io/badge/NACTET-Certified-red?style=for-the-badge&color=000000" alt="NACTET Certification" />
 <p>NACTET Certified Software Tester – Recognized by the National Council for Technology and Training (NACTET).</p>
 </div>
