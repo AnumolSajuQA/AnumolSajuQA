@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anumol Saju, a NACTET Certified Software Tester with one year of experience in the industry. I have completed my MBA in Project Management and B.Tech in Electronics and Communication Engineering. My expertise lies in manual and automation testing, test case writing, defect tracking, and software quality assurance. I am passionate about improving software quality and delivering reliable products.
+I'm Anumol Saju, a ISTQB Certified Software Tester with one year of experience in the industry. I have completed my MBA in Project Management and B.Tech in Electronics and Communication Engineering. My expertise lies in manual and automation testing, test case writing, defect tracking, and software quality assurance. I am passionate about improving software quality and delivering reliable products.
 
 <a href="https://www.linkedin.com/in/anumolsajuqa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -8,10 +8,11 @@ I'm Anumol Saju, a NACTET Certified Software Tester with one year of experience 
   <summary>More about me</summary>
 
 - *Name*: Anumol Saju  
-- *Job*: NACTET Certified Software Tester  
+- *Job*: ISTQB Certified Software Tester  
 - *Experience*: Worked as a Jr Software Tester at Wahylab Solutions
 - *Education*: MBA in Project Management | B.Tech in Electronics and Communication Engineering  
-- *Certification: NACTET Certified Software Tester – Recognized by the **National Council for Technology and Training (NACTET)*  
+- *Certification: ISTQB Foundation level - CTFL certified
+- NACTET Certified – Recognized by the **National Council for Technology and Training (NACTET)*  
 - *Skills Covered*:  
   - Manual & Automation Testing  
   - Test Case Writing & Execution  
